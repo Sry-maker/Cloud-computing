@@ -1,0 +1,9 @@
+hadoop\Task2\CommunicationTypePercent.class
+hadoop\Task1\AverageCommunicationFrequency$Map.class
+hadoop\Task1\AverageCommunicationFrequency$Reduce.class
+hadoop\Task3\CommunicationTimePercent$Reduce.class
+hadoop\Task3\CommunicationTimePercent.class
+hadoop\Task1\AverageCommunicationFrequency.class
+hadoop\Task2\CommunicationTypePercent$Reduce.class
+hadoop\Task2\CommunicationTypePercent$Map.class
+hadoop\Task3\CommunicationTimePercent$Map.class
